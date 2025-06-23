@@ -26,17 +26,19 @@ A modern, full-featured eCommerce web application built with React. It allows us
 
 
 ## Demo 
-<img src="" width="80%"  />
+<img src="https://github.com/therishabhshrivastava/zapmart/blob/main/src/assets/screenshots/Screenshot%202025-06-23%20134624.png" width="80%"  />
 
-<img src="" width="80%" />
+<img src="https://github.com/therishabhshrivastava/zapmart/blob/main/src/assets/screenshots/Screenshot%202025-06-23%20134648.png" width="80%" />
 
-<img src="" width="80%" />
+<img src="https://github.com/therishabhshrivastava/zapmart/blob/main/src/assets/screenshots/Screenshot%202025-06-23%20134702.png" width="80%" />
+
+<img src="https://github.com/therishabhshrivastava/zapmart/blob/main/src/assets/screenshots/Screenshot%202025-06-23%20134814.png" width="80%" />
 
 
 <p>
-  <img src="" width="26%" />
-  <img src="" width="27%" /> 
-  <img src="" width="26%" />
+  <img src="https://github.com/therishabhshrivastava/zapmart/blob/main/src/assets/screenshots/Screenshot%202025-06-23%20134937.png" width="26%" />
+  <img src="https://github.com/therishabhshrivastava/zapmart/blob/main/src/assets/screenshots/Screenshot%202025-06-23%20134920.png" width="27%" /> 
+  <img src="https://github.com/therishabhshrivastava/zapmart/blob/main/src/assets/screenshots/Screenshot%202025-06-23%20135005.png" width="26%" />
 </p>
 
 
