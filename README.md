@@ -1,8 +1,42 @@
-# React + Vite
+ZapMart : eCommerce Web App  🚀🎯
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refre
+A modern, full-featured eCommerce web application built with React. It allows users to browse products, add items to cart, make purchases, and manage orders, and more.
+
+
+## Technologies Used
+
+- `React.js`
+- `Tailwind CSS`
+- `Firebase`
+
+
+## Features
+
+- `Sign up / Login / Logout`
+- `Browse products by categories`
+- `Search and filter products`
+- `Add to cart and update quantities`
+- `Checkout and place orders`
+
+### **Live Site**  https://zapmart.vercel.app/
+
+
+
+## Demo 
+<img src="" width="80%"  />
+
+<img src="" width="80%" />
+
+<img src="" width="80%" />
+
+
+<p>
+  <img src="" width="26%" />
+  <img src="" width="27%" /> 
+  <img src="" width="26%" />
+</p>
+
+
